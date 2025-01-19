@@ -1,0 +1,7 @@
+picamera2
+opencv-python
+torch
+torchvision
+pillow
+pandas
+requests
